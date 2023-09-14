@@ -1,0 +1,14 @@
+C:\Kelly\Projects\Elevator\Elevator\bin\Debug\net6.0\Elevator.exe
+C:\Kelly\Projects\Elevator\Elevator\bin\Debug\net6.0\Elevator.deps.json
+C:\Kelly\Projects\Elevator\Elevator\bin\Debug\net6.0\Elevator.runtimeconfig.json
+C:\Kelly\Projects\Elevator\Elevator\bin\Debug\net6.0\Elevator.dll
+C:\Kelly\Projects\Elevator\Elevator\bin\Debug\net6.0\Elevator.pdb
+C:\Kelly\Projects\Elevator\Elevator\obj\Debug\net6.0\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kelly\Projects\Elevator\Elevator\obj\Debug\net6.0\Elevator.AssemblyInfoInputs.cache
+C:\Kelly\Projects\Elevator\Elevator\obj\Debug\net6.0\Elevator.AssemblyInfo.cs
+C:\Kelly\Projects\Elevator\Elevator\obj\Debug\net6.0\Elevator.csproj.CoreCompileInputs.cache
+C:\Kelly\Projects\Elevator\Elevator\obj\Debug\net6.0\Elevator.dll
+C:\Kelly\Projects\Elevator\Elevator\obj\Debug\net6.0\refint\Elevator.dll
+C:\Kelly\Projects\Elevator\Elevator\obj\Debug\net6.0\Elevator.pdb
+C:\Kelly\Projects\Elevator\Elevator\obj\Debug\net6.0\Elevator.genruntimeconfig.cache
+C:\Kelly\Projects\Elevator\Elevator\obj\Debug\net6.0\ref\Elevator.dll
